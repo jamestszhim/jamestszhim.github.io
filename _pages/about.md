@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tsz-Him Cheung, James | Home"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 

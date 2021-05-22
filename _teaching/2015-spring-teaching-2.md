@@ -1,5 +1,5 @@
 ---
-title: "COMP 4211 | Machine Learning"
+title: "COMP 4211 Machine Learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-2

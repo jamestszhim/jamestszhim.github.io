@@ -17,5 +17,9 @@ I received my BEng degree in Computer Science and BBA degree in General Business
 
 Updates
 ======
+[Jan 2021] One paper is accepted at <strong>ICLR 2022</strong> as poster.
+
+[Jul 2021] One paper is accepted at the workshop <strong>FTL-IJCAI'21</strong> as poster.
+
 [Jan 2021] One paper is accepted at <strong>ICLR 2021</strong> as poster.
 

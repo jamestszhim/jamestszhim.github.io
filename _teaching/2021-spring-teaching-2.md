@@ -1,9 +1,10 @@
 ---
 title: "COMP 4211 Machine Learning"
 collection: teaching
-type: "Teaching Assistant"
+type: "Tutorial"
 permalink: /teaching/2021-spring-teaching-2
 venue: "HKUST"
-date: 2021-01-01
+time: Offered in Spring 2021
 location: "Hong Kong"
+status: "inactive"
 ---

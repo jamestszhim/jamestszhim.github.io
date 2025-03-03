@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tsz-Him Cheung / Home Page"
 title_separator          : "-"
 name                     : &name "Tsz-Him Cheung"
-description              : &description "PhD Student at CSE, HKUST. Machine Learning | Artificial Intelligence"
+description              : &description "PhD at CSE, HKUST. Machine Learning | Artificial Intelligence"
 url                      : https://jamestszhim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Tsz-Him Cheung"
   avatar           : "profile.png"
-  bio              : "PhD Student at CSE, HKUST. Machine Learning | Artificial Intelligence"
-  location         : "Hong Kong"
-  employer         :
-  pubmed           : 
+  bio              : "PhD at CSE, HKUST. Machine Learning | Artificial Intelligence"
+  location         : "Room 2538 (Lift 25/26)"
+  employer         : "CSE @ HKUST"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=itPfccEAAAAJ&hl=zh-TW"
-  email            : "thcheungae@connect.ust.hk"
-  researchgate     : 
+  email            : "thjcheung"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jamestszhim"
+  github           : # "https://github.com/jamestszhim"
   google_plus      :
   keybase          :
   instagram        :

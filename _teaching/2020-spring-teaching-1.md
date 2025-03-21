@@ -1,5 +1,5 @@
 ---
-title: "COMP 4211 Machine Learning"
+title: "COMP 4211 Machine Learning (2020 Spring)"
 collection: teaching
 type: "Tutorial"
 permalink: /teaching/2020-spring-teaching-1

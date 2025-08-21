@@ -1,7 +1,7 @@
 ---
 title: "COMP 2711 Discrete Mathematical Tools for Computer Science"
 collection: teaching
-status: "active"
+status: "inactive"
 type: "L1"
 permalink: /teaching/2025-spring-comp2711
 venue: "Room 2306"

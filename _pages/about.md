@@ -15,6 +15,8 @@ I am currently a Lecturer at the [Department of Computer Science and Engineering
 
 My research focuses on data-centric AI, particularly on automated data augmentation methods for machine learning and artificial intelligence in low-data regimes. He is also interested in developing innovative, data-efficient solutions that enhance the performance and scalability of AI systems.
 
+Please visit [here](https://cse.hkust.edu.hk/~thjcheung/teaching.html) for my latest teaching schedule.
+
 
 <!-- Updates
 ======
